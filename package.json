@@ -1,0 +1,14 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "description": "aurora project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/app.css -w"
+  },
+  "author": "Cuong",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
